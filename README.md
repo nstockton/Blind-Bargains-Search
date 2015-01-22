@@ -3,7 +3,7 @@ Search for products using BlindBargains.com, and display results in an accessibl
 
 ## Installation
 In order to run the program from source, you will need to install the following Python Modules:
-* [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup), version 3 or 4
-* [Object List View](http://objectlistview.sourceforge.net/python)
-* [wxPython](http://wxpython.org)
-* [py2exe](http://py2exe.org) if you want to generate a stand-alone Windows executable.
+* [](http://www.crummy.com/software/BeautifulSoup "Beautiful Soup"), version 3 or 4
+* [](http://objectlistview.sourceforge.net/python "Object List View")
+* [](http://wxpython.org "wxPython")
+* [](http://py2exe.org "py2exe") if you want to generate a stand-alone Windows executable.
